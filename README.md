@@ -45,7 +45,7 @@ My current thesis project, **TIMS (Tank Inventory Management System)**, is a Qt/
 
 ### 🚀 Featured Projects
 
-**TIMS — Tank Inventory Management System**
+**TIMS - Tank Inventory Management System**
 A Qt/C++ desktop application managing 23 tanks and 19+ palm oil product types for an industrial tank farm facility. Features a custom SQLite backend and a MILP-based optimizer (GLPK) for delivery allocation and pre-transfer planning, minimizing deviation from target fill levels. Developed as part of my undergraduate thesis.
 
 **Scholix**
