@@ -14,9 +14,9 @@ Informatics Undergraduate | Software Developer | Yemen → Surabaya, Indonesia
 
 ### About Me
 
-I'm an Informatics undergraduate student at **Universitas 17 Agustus 1945 Surabaya (UNTAG Surabaya)**, originally from Yemen and currently based in Surabaya, Indonesia. I work across desktop application development, web development, and applied optimization, with a strong interest in building practical, industrial-grade software systems.
+I'm an Informatics Engineering graduated from **Universitas 17 Agustus 1945 Surabaya (UNTAG Surabaya)**, originally from Yemen and currently based in Surabaya, Indonesia. I work across desktop application development, web development, data management, and applied optimization, with a strong interest in building practical, industrial-grade software systems.
 
-My current thesis project, **TIMS (Tank Inventory Management System)**, is a Qt/C++ desktop application built for an industrial palm oil tank farm facility, combining database design, mixed-integer linear programming (MILP) optimization, and real-world operational constraints.
+My thesis project, **TIMS (Tank Inventory Management System)**, is a Qt/C++ desktop application built for an industrial palm oil tank farm facility, combining database design, mixed-integer linear programming (MILP) optimization, and real-world operational constraints.
 
 ---
 
