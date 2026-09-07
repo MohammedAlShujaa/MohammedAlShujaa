@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Al-Shujaa 👋</h1>
 
 <p align="center">
-Informatics Undergraduate | Software Developer | Yemen → Surabaya, Indonesia
+Informatics graduated | Software Developer | Yemen → Surabaya, Indonesia
 </p>
 
 <p align="center">
